@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Dark Discord Cyan Redux",
         "author": "Rhy",
-        "version": "1.0"
+        "version": "1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCY.json"
     },
     "background": {},
     "fonts": {},
