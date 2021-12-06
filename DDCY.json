@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Dark Discord Cyan Redux",
         "author": "Rhy#1752",
-        "version": "1.02",
+        "version": "1.03",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCY.json",
         "license": "MIT"
     },
