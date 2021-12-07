@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "Rhy#1752",
+        "name": "DD Magenta Redux Addon",
+        "version": "1.0",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDMGplus.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {
+        "primary_dark_100": -994227823,
+        "primary_dark_300": -6212232
+    },
+    "drawable_tints": {
+        "ic_pin_24dp": -4372079,
+        "ic_thread": -4372079,
+        "ic_sidebar_pins_on_dark_24dp": -4372079,
+        "ic_sidebar_pins_off_dark_24dp": -4372079,
+        "ic_sidebar_notifications_off_dark_24dp": -4372079,
+        "ic_sidebar_notifications_on_dark_24dp": -4372079,
+        "ic_channel_text": -4372079,
+        "ic_mark_unread_24dp": -4372079,
+        "ic_user_profile_action_message_white_a60_24dp": -4372079,
+        "ic_user_profile_action_message_grey_a60_24dp": -4372079,
+        "ic_chat_message_white_24dp": -4372079
+    },
+    "raws": {}
+}
