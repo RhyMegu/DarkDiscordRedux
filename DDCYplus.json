@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "Rhy#5284",
+        "name": "DD Cyan Redux Addon",
+        "version": "1.0",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCYplus.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {
+        "primary_dark_100": -1003966323,
+        "primary_dark_300": -14110579
+    },
+    "drawable_tints": {
+        "ic_pin_24dp": -14110579,
+        "ic_thread": -14110579,
+        "ic_sidebar_pins_on_dark_24dp": -14110579,
+        "ic_sidebar_pins_off_dark_24dp": -14110579,
+        "ic_sidebar_notifications_off_dark_24dp": -14110579,
+        "ic_sidebar_notifications_on_dark_24dp": -14110579,
+        "ic_channel_text": -14110579,
+        "ic_mark_unread_24dp": -14110579,
+        "ic_user_profile_action_message_white_a60_24dp": -14110579,
+        "ic_user_profile_action_message_grey_a60_24dp": -14110579,
+        "ic_chat_message_white_24dp": -14110579
+    },
+    "raws": {}
+}

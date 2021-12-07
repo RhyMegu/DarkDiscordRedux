@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Dark Discord Cyan Redux",
         "author": "Rhy#1752",
-        "version": "1.03",
+        "version": "1.04",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCY.json",
         "license": "MIT"
     },
@@ -12,7 +12,7 @@
         "background": -15461356,
         "background_secondary": -15658735,
         "mention_highlight": 300200960,
-        "accent": -14376800
+        "accent": -14110579
     },
     "colors": {
         "uikit_btn_bg_color_selector_green": -12666214,
@@ -46,8 +46,8 @@
         "status_green_830": -13663892,
         "status_green_960": -13977966,
         "status_green": -12666214,
-        "uikit_btn_bg_color_selector_brand": -14711702,
-        "primary_600": -15427723
+        "uikit_btn_bg_color_selector_brand": -14110579,
+        "primary_600": -14110579
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": 427918985,
