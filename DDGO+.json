@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "author": "Rhy#5284",
+        "name": "DD Gold Redux Addon",
+        "version": "1.0",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDGO+.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 1035508259
+    },
+    "colors": {
+        "primary_dark_100": -993809589,
+        "primary_dark_300": -4679133
+    },
+    "drawable_tints": {
+        "ic_pin_24dp": -3953845,
+        "ic_thread": -4679133,
+        "ic_sidebar_pins_on_dark_24dp": -4679133,
+        "ic_sidebar_pins_off_dark_24dp": -4679133,
+        "ic_sidebar_notifications_off_dark_24dp": -4679133,
+        "ic_sidebar_notifications_on_dark_24dp": -4679133,
+        "ic_channel_text": -4679133,
+        "ic_mark_unread_24dp": -4679133
+    },
+    "raws": {}
+}
