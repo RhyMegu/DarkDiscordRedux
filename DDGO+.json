@@ -4,7 +4,7 @@
         "name": "DD Gold Redux Addon",
         "version": "1.0",
         "license": "MIT",
-        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDGO+.json"
+        "updater": "https://raw.githubusercontent.com/RhyMegu/DarkDiscordRedux/main/DDGO%2B.json"
     },
     "background": {},
     "fonts": {},
