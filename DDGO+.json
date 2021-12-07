@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Rhy#5284",
         "name": "DD Gold Redux Addon",
-        "version": "1.0",
+        "version": "1.1",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDGO%2B.json"
     },
@@ -23,7 +23,10 @@
         "ic_sidebar_notifications_off_dark_24dp": -4679133,
         "ic_sidebar_notifications_on_dark_24dp": -4679133,
         "ic_channel_text": -4679133,
-        "ic_mark_unread_24dp": -4679133
+        "ic_mark_unread_24dp": -4679133,
+        "ic_user_profile_action_message_white_a60_24dp": -4679133,
+        "ic_user_profile_action_message_grey_a60_24dp": -4679133,
+        "ic_chat_message_white_24dp": -4679133
     },
     "raws": {}
 }
