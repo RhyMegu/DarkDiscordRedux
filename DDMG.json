@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Dark Discord Magenta Redux",
         "author": "Rhy#1752",
-        "version": "1.0",
+        "version": "1.1",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDMG.json",
         "license": "MIT"
     },
@@ -15,7 +15,6 @@
         "accent": -4372079
     },
     "colors": {
-        "uikit_btn_bg_color_selector_green": -6080902,
         "uikit_btn_bg_color_selector_red": -1890997,
         "reddit": -2725874,
         "reddit_500": -5089523,

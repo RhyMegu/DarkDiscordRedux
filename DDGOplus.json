@@ -1,8 +1,8 @@
 {
     "manifest": {
-        "author": "Rhy#5284",
+        "author": "Rhy#1752",
         "name": "DD Gold Redux Addon",
-        "version": "1.1",
+        "version": "1.2",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDGOplus.json"
     },
@@ -13,7 +13,8 @@
     },
     "colors": {
         "primary_dark_100": -993809589,
-        "primary_dark_300": -4679133
+        "primary_dark_300": -4679133,
+        "uikit_btn_bg_color_selector_green": -4679133
     },
     "drawable_tints": {
         "ic_pin_24dp": -3953845,
@@ -26,7 +27,17 @@
         "ic_mark_unread_24dp": -4679133,
         "ic_user_profile_action_message_white_a60_24dp": -4679133,
         "ic_user_profile_action_message_grey_a60_24dp": -4679133,
-        "ic_chat_message_white_24dp": -4679133
+        "ic_chat_message_white_24dp": -4679133,
+        "ic_channel_text_nsfw": -4679133,
+        "ic_channel_text_locked": -4679133,
+        "ic_channel_lock_16dp": -4679133,
+        "ic_channel_announcements_thread_nsfw": -4679133,
+        "ic_channel_announcements_thread_locked": -4679133,
+        "ic_channel_announcements_thread": -4679133,
+        "ic_channel_announcements_nsfw": -4679133,
+        "ic_channel_announcements_16dp": -4679133,
+        "ic_channel_announcements_locked": -4679133,
+        "ic_channel_announcements": -4679133
     },
     "raws": {}
 }

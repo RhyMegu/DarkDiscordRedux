@@ -2,16 +2,19 @@
     "manifest": {
         "author": "Rhy#1752",
         "name": "DD Magenta Redux Addon",
-        "version": "1.0",
+        "version": "1.1",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDMGplus.json"
     },
     "background": {},
     "fonts": {},
-    "simple_colors": {},
+    "simple_colors": {
+        "active_channel": 1134638456
+    },
     "colors": {
         "primary_dark_100": -994227823,
-        "primary_dark_300": -6212232
+        "primary_dark_300": -6212232,
+        "uikit_btn_bg_color_selector_green": -6212232
     },
     "drawable_tints": {
         "ic_pin_24dp": -4372079,
@@ -24,7 +27,15 @@
         "ic_mark_unread_24dp": -4372079,
         "ic_user_profile_action_message_white_a60_24dp": -4372079,
         "ic_user_profile_action_message_grey_a60_24dp": -4372079,
-        "ic_chat_message_white_24dp": -4372079
+        "ic_chat_message_white_24dp": -4372079,
+        "ic_channel_announcements": -6212232,
+        "ic_channel_text_nsfw": -6212232,
+        "ic_channel_text_locked": -6212232,
+        "ic_channel_announcements_thread": -6212232,
+        "ic_channel_announcements_locked": -6212232,
+        "drawable_overlay_channel_pressed_dark": 1084306808,
+        "drawable_overlay_channels_active_dark": 1302410616,
+        "drawable_overlay_channels_selected_dark": 983643512
     },
     "raws": {}
 }
