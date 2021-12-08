@@ -2,13 +2,15 @@
     "manifest": {
         "author": "Rhy#1752",
         "name": "DD Cyan Redux Addon",
-        "version": "1.2",
+        "version": "1.3",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCYplus.json"
     },
     "background": {},
     "fonts": {},
-    "simple_colors": {},
+    "simple_colors": {
+        "active_channel": 1042854029
+    },
     "colors": {
         "primary_dark_100": -1003966323,
         "primary_dark_300": -14110579
