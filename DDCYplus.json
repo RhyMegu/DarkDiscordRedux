@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Rhy#1752",
         "name": "DD Cyan Redux Addon",
-        "version": "1.4",
+        "version": "1.5",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCYplus.json"
     },
@@ -19,12 +19,10 @@
         "ic_pin_24dp": -14110579,
         "ic_thread": -14110579,
         "ic_sidebar_pins_on_dark_24dp": -14110579,
-        "ic_sidebar_pins_off_dark_24dp": -14110579,
-        "ic_sidebar_notifications_off_dark_24dp": -14110579,
+        "ic_sidebar_pins_off_dark_24dp": -14516890,
+        "ic_sidebar_notifications_off_dark_24dp": -14516890,
         "ic_sidebar_notifications_on_dark_24dp": -14110579,
         "ic_mark_unread_24dp": -14110579,
-        "ic_user_profile_action_message_white_a60_24dp": -14110579,
-        "ic_user_profile_action_message_grey_a60_24dp": -14110579,
         "ic_chat_message_white_24dp": -14110579,
         "ic_channel_text_nsfw": -14110579,
         "ic_channel_text_locked": -14110579,
@@ -38,7 +36,15 @@
         "ic_channel_announcements": -14110579,
         "ic_text_channel_white_24dp": -14110579,
         "ic_edit_24dp": -14110579,
-        "ic_menu_24dp": -14110579
+        "ic_menu_24dp": -14110579,
+        "ic_guild_invite_24dp": -14110579,
+        "ic_guild_settings_24dp": -14110579,
+        "ic_bell_20dp": -14110579,
+        "ic_bell_16dp": -14110579,
+        "ic_bell_12dp": -14110579,
+        "ic_user_profile_action_call_white_a60_24dp": -14110579,
+        "ic_user_profile_action_video_white_a60_24dp": -14110579,
+        "ic_user_profile_action_video_grey_a60_24dp": -14516890
     },
     "raws": {}
 }
