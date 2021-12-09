@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Rhy#1752",
         "name": "DD Magenta Redux Addon",
-        "version": "1.1",
+        "version": "1.2",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDMGplus.json"
     },
@@ -35,7 +35,8 @@
         "ic_channel_announcements_locked": -6212232,
         "drawable_overlay_channel_pressed_dark": 1084306808,
         "drawable_overlay_channels_active_dark": 1302410616,
-        "drawable_overlay_channels_selected_dark": 983643512
+        "drawable_overlay_channels_selected_dark": 983643512,
+        "ic_menu_24dp": -6212232
     },
     "raws": {}
 }
