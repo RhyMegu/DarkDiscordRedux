@@ -41,7 +41,8 @@
         "ic_settings_24dp": -6212232,
         "ic_bell_20dp": -6212232,
         "ic_bell_16dp": -6212232,
-        "ic_bell_12dp": -6212232
+        "ic_bell_12dp": -6212232,
+        "drawable_button_grey": -6212232
     },
     "raws": {}
 }

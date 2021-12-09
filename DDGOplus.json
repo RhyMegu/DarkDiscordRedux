@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Rhy#1752",
         "name": "DD Gold Redux Addon",
-        "version": "1.4",
+        "version": "1.4.1",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDGOplus.json"
     },
@@ -43,7 +43,8 @@
         "ic_bell_12dp": -4679133,
         "ic_bell_20dp": -4679133,
         "ic_guild_invite_24dp": -4679133,
-        "ic_settings_24dp": -4679133
+        "ic_settings_24dp": -4679133,
+        "drawable_button_grey": -4679133
     },
     "raws": {}
 }

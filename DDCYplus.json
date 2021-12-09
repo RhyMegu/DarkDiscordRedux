@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Rhy#1752",
         "name": "DD Cyan Redux Addon",
-        "version": "1.5",
+        "version": "1.5.1",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCYplus.json"
     },
@@ -44,7 +44,9 @@
         "ic_bell_12dp": -14110579,
         "ic_user_profile_action_call_white_a60_24dp": -14110579,
         "ic_user_profile_action_video_white_a60_24dp": -14110579,
-        "ic_user_profile_action_video_grey_a60_24dp": -14516890
+        "ic_user_profile_action_video_grey_a60_24dp": -14516890,
+        "ic_channel_text": -14110579,
+        "drawable_button_grey": -14110579
     },
     "raws": {}
 }
