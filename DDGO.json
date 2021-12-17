@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Dark Discord Gold Redux",
         "author": "Rhy#1752",
-        "version": "1.0",
+        "version": "1.1",
         "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDGO.json",
         "license": "MIT"
     },
@@ -47,7 +47,9 @@
         "status_green_960": -13977966,
         "status_green": -12666214,
         "uikit_btn_bg_color_selector_brand": -6125799,
-        "primary_600": -6848473
+        "primary_600": -6848473,
+        "link_500": -6125799,
+        "link": -6125799
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": 427918985,
