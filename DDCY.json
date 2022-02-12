@@ -12,7 +12,8 @@
         "background": -15461356,
         "background_secondary": -15658735,
         "mention_highlight": 300200960,
-        "accent": -14110579
+        "accent": -14110579,
+        "blocked_bg": -15658735
     },
     "colors": {
         "uikit_btn_bg_color_selector_green": -12666214,
